@@ -85,9 +85,8 @@ A modern, responsive multi-page website for True Kutz Barbershop built with HTML
 125 Inspire Blvd, L6R 3W4, Brampton, ON
 
 ### Hours of Operation
-- **Monday**: Closed
-- **Tuesday - Saturday**: 10:00 AM - 7:00 PM
-- **Sunday**: 10:00 AM - 6:00 PM
+- **Monday**: 10:00 AM - 9:00 PM
+- **Tuesday - Sunday**: 10:00 AM - 7:00 PM
 
 ### Contact
 - **Phone**: (647) 929-7894
