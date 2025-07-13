@@ -73,20 +73,16 @@ A modern, responsive multi-page website for True Kutz Barbershop built with HTML
 
 ## 👥 Team Members
 
-- **Steph** - Master Barber (Fades, Modern Cuts, Styling)
-- **Kay** - Senior Barber (Classic Cuts, Beard Trims, Precision Work)
-- **Larry** - Style Specialist (Creative Cuts, Color, Trending Styles)
-- **Jack** - Junior Barber (Quick Cuts, Maintenance, Youth Styles)
-- **Drey** - Senior Barber (Ethnic Hair, Beard Grooming, Texture Work)
-- **Co-op Barber** - Rotating Specialist (Specialized Cuts, New Techniques)
+- **Steph** - Fades, Modern Cuts, Styling
+- **Kay** - Classic Cuts, Beard Trims, Precision Work
+- **Larry** - Creative Cuts, Color, Trending Styles
+- **Jack** - Quick Cuts, Maintenance, Youth Styles
+- **Omar** - Ethnic Hair, Beard Grooming, Texture Work
 
 ## 📍 Location & Hours
 
-### Primary Location
+### Location
 125 Inspire Blvd, L6R 3W4, Brampton, ON
-
-### Secondary Location
-2510 Countryside Dr, Brampton, ON L6R 3T4
 
 ### Hours of Operation
 - **Monday**: Closed
